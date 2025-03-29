@@ -1,5 +1,5 @@
 # visual studio code
-.vscode/*
+.vscode/
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -29,6 +29,7 @@
 # Godot
 .import/
 .godot/
+exports/
 export.cfg
 export_credentials.cfg
 
@@ -39,3 +40,5 @@ export_credentials.cfg
 .mono/
 data_*/
 mono_crash.*.json
+
+dll.md
