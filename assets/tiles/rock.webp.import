@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cn1lfoyw4s3o"
-path="res://.godot/imported/tileset.webp-5cb25d570d439fa8d634d8022ff155f7.ctex"
+uid="uid://bliaknt4olw3p"
+path="res://.godot/imported/rock.webp-76e8d9b4d938428ddc0ec129b7d5c1a0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/tiles/tileset.webp"
-dest_files=["res://.godot/imported/tileset.webp-5cb25d570d439fa8d634d8022ff155f7.ctex"]
+source_file="res://assets/tiles/rock.webp"
+dest_files=["res://.godot/imported/rock.webp-76e8d9b4d938428ddc0ec129b7d5c1a0.ctex"]
 
 [params]
 
